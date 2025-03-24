@@ -90,5 +90,3 @@ If you have any questions or need guidance, feel free to reach out. We’re here
 ---
 
 ### ⚡ **Good Luck and Have Fun!**
-# Skill-Test-Card-Memory
-# Skill-Test-Card-Memory
