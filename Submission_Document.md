@@ -46,3 +46,5 @@
    - Implemented statistical overview of player performance
    - Added responsive table with fixed header for scrollable content
    - Created visually engaging loading animation for data retrieval
+
+### Video Demonstration: [Link](https://drive.google.com/file/d/1DYh-1ODgxlGAGu3QZT2hmXzwTerp7_yt/view?usp=sharing)
